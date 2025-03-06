@@ -4,3 +4,5 @@ https://youtube.com/playlist?list=PLXoSGejyuQGqk-_fjrmT5eHrM_gvldIQP&si=k3QDX_Z-
 
 Programas exemplos/Slides\
   https://debxp.org/curso-fundc2/
+
+Zed
